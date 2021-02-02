@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="script_main_Analitka_GK.spr_kbk_kosgu_scheta" />
+          <option value="script_main_Analitka_GK.spr_kbk_kosgu_provodki" />
+          <option value="script_main_Analitka_GK.spr_kosgu_scheta_kosgu_provodki" />
+          <option value="script_main_Analitka_GK.spr_schet_kbk" />
+          <option value="script_main_Analitka_GK.spr_schet_kosgu_scheta" />
+          <option value="script_main_Analitka_GK.spr_schet_kosgu_provodki" />
+          <option value="script_main_Analitka_GK_222.spr_schet_kbk" />
+          <option value="script_main_Analitka_GK_222.spr_kosgu_scheta_kosgu_provodki" />
+          <option value="script_main_Analitka_GK_222.spr_kbk_kosgu_provodki" />
+          <option value="script_main_Analitka_GK_222.spr_kbk_kosgu_scheta" />
+          <option value="script_main_Analitka_GK_222.spr_schet_kosgu_provodki" />
+          <option value="script_main_Analitka_GK_222.spr_schet_kosgu_scheta" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
