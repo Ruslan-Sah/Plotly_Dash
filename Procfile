@@ -1,1 +1,1 @@
-web: gunicorn app:server
+web: gunicorn MISiS_3.wsgi
